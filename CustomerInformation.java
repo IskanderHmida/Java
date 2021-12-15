@@ -1,3 +1,8 @@
+//This program is used to get customers information. 
+////////////////////////////////////////////////////
+////////////////////////////////////////////////////
+
+
 import java.sql.*;
 import javafx.application.Application;
 import javafx.event.ActionEvent;
